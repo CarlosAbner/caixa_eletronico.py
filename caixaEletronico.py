@@ -11,7 +11,7 @@ total = valor
 cedula = 50 
 totalCedula = 0 
 
-#função que fara as seguintes funções:
+#codigo que fara as seguintes funções:
 while True:
     # solicitado valor no banco usuario nao pode tirar mais do que existe dispoviel para saque
     while valor > banco:
